@@ -12,8 +12,8 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
-            className="App-links"
-            href="https://reactjs.org"
+            className="App-links 2"
+            href="https://asdareactjs.org"
             target="_blank"
             rel="noopener noreferrer"
           >
