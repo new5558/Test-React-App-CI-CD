@@ -12,7 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
-            className="App-links 2"
+            className="App-links 2 dsf"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
